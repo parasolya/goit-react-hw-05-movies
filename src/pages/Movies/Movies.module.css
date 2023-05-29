@@ -1,0 +1,43 @@
+.submit__btn {
+  width: 100px;
+  height: 25px;
+  text-align: center;
+
+  border: 1px solid hsl(0, 0%, 27%);
+  border-top: 1.5px solid hsl(0, 0%, 27%);
+  box-shadow: 10px 5px 5px rgb(249, 248, 158);
+
+  padding-left: 10px;
+  margin-right: 20px;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+.page__section {
+  color: #fcfcfc;
+  background-color: #333334;
+  margin: 40px;
+  align-items: center;
+  border: 1px solid hsl(0, 0%, 27%);
+  border-top: 1.5px solid hsl(0, 0%, 27%);
+  padding: 10px 0px;
+  box-shadow: 10px 5px 5px rgb(249, 248, 158);
+  gap: 20px;
+  padding-left: 10px;
+}
+
+.nav__link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 14px;
+}
+
+a:hover,
+a:focus {
+  text-shadow: 10px 5px 5px rgb(248, 244, 48);
+}
+.submit__btn:hover,
+.submit__btn:focus {
+  text-shadow: 10px 5px 5px rgb(248, 244, 48);
+}

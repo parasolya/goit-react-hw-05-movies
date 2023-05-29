@@ -1,0 +1,11 @@
+.text {
+    font-size: 12px;
+    margin-top: 2px;
+}
+.text__no {
+    font-size: 10px;
+}
+.actor {
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
